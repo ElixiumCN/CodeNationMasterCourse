@@ -1,0 +1,16 @@
+Terminal commands
+
+Touch only works in Git Bash
+These slides are created for mac computers. All the commands are for mac/git bash
+Cd - change directory
+Ls - list directory contents
+Mkdir - make directory
+Touch ???
+Rmdir
+Cd ~ go back to root folder
+Cd .. Back one folder
+Clear - clear terminal
+Navigate previously used commands with arrow key
+Powershell: new-item dotNotation.js
+Also echo > newfile.js
+Run a file: Node file.js
