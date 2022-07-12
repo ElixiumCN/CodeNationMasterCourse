@@ -1,9 +1,13 @@
+
+// print string in the terminal.
 console.log("Hello World");
 
+
+// apply method to a string (datatype)
 console.log("Hello".toUpperCase());
 
-// console.log(Math.random());
 
+// console.log(Math.random());
 console.log(Math.random()*10);
 
 // google 

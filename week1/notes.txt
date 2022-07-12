@@ -1,0 +1,33 @@
+- Day 2.
+Activity status [x] = done & working
+[??? = problem/errors]
+-- morning:
+1 [x]
+2 [x]
+3 [x]
+4 [x]
+-- afternoon:
+1 [x]
+2 [???]
+3 [x]
+4 [x]
+5 [???]
+6 [x]
+7 [x]
+8 [x]
+9 [x]
+
+
+
+- Using the 9.30am to 10am time period
+
+-- Examples
+View relevant pluralsight course videos
+Review code that I've written the previous day.
+Make sure that everything is commented where possible, so that I understand every line of code as well as possible.
+
+Notes
+
+- Keyboard shortcuts
+Alt-Z wordwrap
+

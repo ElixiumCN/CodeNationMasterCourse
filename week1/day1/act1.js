@@ -1,6 +1,8 @@
 
 
 // arrays
+// let = modern way of declaring a variable.
+// var works but its usually only found in legacy code.
 
 let down ="   |   |   \n   |   |   \n   |   |   "
 let across=
@@ -23,6 +25,19 @@ while (line > 0) {
         console.log("   |   |   \n   |   |   \n   |   |   ");
     }
 }
+
+let array = []
+for (let i = 0; i <= 4;i++){
+    
+    if(i == 1 || i ==3){
+        array.push("-----------");
+    } else{
+        array.push("   |   |   ");
+        array.push("   |   |   ");
+        array.push("   |   |   ");
+    }
+}
+console.log(array.join("\n"));
 
 // console.log('   |    |   ');
 // console.log('   |    |   ');

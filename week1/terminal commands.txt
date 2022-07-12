@@ -1,0 +1,24 @@
+Terminal commands
+
+Cd - change directory
+Ls - list directory contents
+Mkdir - make directory
+Touch - create new file in Git Bash Termianl
+Rmdir - remove directory
+Cd ~ go back to root folder
+Cd .. Back one folder
+Clear - clear terminal
+Navigate previously used commands with arrow key
+Run a file: Node xyz.js
+npm start - start local web server
+
+I have changed my default terminal
+via this method:
+    + downarrow drop down menu > Selection Default Profile
+
+Touch only works in Git Bash
+These slides are created for mac computers. All the commands are for mac/git bash
+
+
+Powershell: new-item dotNotation.js
+Also echo > newfile.js
