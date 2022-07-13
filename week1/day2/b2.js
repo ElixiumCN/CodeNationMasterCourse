@@ -1,14 +1,18 @@
-let topping = "pineapple"
+let pizzaTopping = "beef"; 
 
-switch(topping) {
+switch(pizzaTopping) {
     case "beef":
     case "meatballs":
-    case "olive":
-console.log(`These are important ingredients for my pizza.`);
-    break;
-    case "chicken":
-console.log(`I don't mind having ${topping} on my pizza.`);
-    break;
-    default:
-console.log(`{$topping} should not be on my pizza`);
-    }
+    // case "olives":
+        console.log(`${pizzaTopping} is an important ingredient for my pizza.`); 
+        break; 
+    case "peppers":
+    case "onions":
+        console.log(`I don’t mind having ${pizzaTopping} on my pizza.`); 
+        break; 
+    case "pineapple":
+        console.log(`${pizzaTopping} should not be on a pizza.`); 
+        break; 
+    default: 
+    console.log(`${pizzaTopping} is unavailable as a topping.`); 
+}
