@@ -1,0 +1,4 @@
+creating my own notes whilst watching Pluralsight [mark zamoyta] videos 
+
+
+- You can use a variable to create aliases, different names that the function can be called with.
