@@ -1,0 +1,16 @@
+open in integrated terminal automatic CD change dir to the right place
+Initizaliting a new Git repo via Terminal
+
+- Create a repo on the website
+- copy these commands from the website
+- paste these commands in the terminal
+
+echo "# somethingNew" >> README.md
+git init
+git add README.md
+git commit -m "first commit" // -m = message for the commit
+git branch -M main
+git remote add origin https://github.com/ElixiumCN/somethingNew.git
+git push -u origin main // upload to the website
+
+git push
