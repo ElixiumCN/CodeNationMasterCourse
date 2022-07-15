@@ -21,3 +21,8 @@ and if I change folder into a folder that belongs to a different repo
 and then push.. it will push to the correct repo automatically without having to specify the repo
 
 git add . // will add all files and subfolders to the repo/tracking
+- always have to do .add to add all the changes to the commit your about to make
+git commit -m "hello"
+- specify the "message" for this commit/push
+git push
+- execute the push.. done.
