@@ -1,11 +1,11 @@
-// naming convention
-// a = activity
-// b = afternoon
-// so ab1 = afternoon activity #1.
-// a1 = morning activity #1.
-// a3t = a3 test
-// a3t2 = a2 test 2
-// s1 # slides > morning code that's from the slides.. not from activities.
-// sb # slides > afternoon
+naming convention
+a = activity
+b = afternoon
+so ab1 = afternoon activity #1.
+a1 = morning activity #1.
+a3t = a3 test
+a3t2 = a2 test 2
+s1 # slides > morning code that's from the slides.. not from activities.
+sb # slides > afternoon
 
-// future repos.. CNmastercourseweek2
+future repos.. CN_MasterCourse_Week2

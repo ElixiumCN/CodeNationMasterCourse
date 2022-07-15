@@ -14,3 +14,10 @@ git remote add origin https://github.com/ElixiumCN/somethingNew.git
 git push -u origin main // upload to the website
 
 git push
+
+
+seems like if a git repo already exists... the git terminal knows about it and all you have to do is change directory into it and then push without manually specifying the repo
+and if I change folder into a folder that belongs to a different repo
+and then push.. it will push to the correct repo automatically without having to specify the repo
+
+git add . // will add all files and subfolders to the repo/tracking
