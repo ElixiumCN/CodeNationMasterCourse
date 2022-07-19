@@ -7,6 +7,8 @@ worry about how it looks - just add content for
 now.
 Add images and links where needed. [x]
 
+/// add a second login2.html then find out how to add a form box
+
 /////// do this
 2. Add to your HTML using attributes. [x]
 Make your paragraph editable when you click.

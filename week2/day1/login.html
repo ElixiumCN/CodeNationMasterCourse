@@ -29,6 +29,39 @@
 
 <div class="specialheading3 center">
 
+    <form action="/action_page.php">
+        <p><label for="emailinput">Ask me a question</label></p>
+        <textarea id="emailinput" name="emailinput" rows="4" cols="30">Enter your query here</textarea>
+        <br>
+        <!-- <input type="submit" value="Submit"> -->
+    </form>
+<!-- Button trigger modal -->
+<div><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Submit</button></div>
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title modalwallst" id="exampleModalLabel">Something</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p class="modalwallst">You have clicked "Button".</p>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+            </div>
+        </div>
+        </div>
+    </div>
+
+<p></p>
+
 
     User Login<br><br>
     Username:<input id="emailinput" type="text" placeholder="Input Username" name="text1"></input>
@@ -39,7 +72,19 @@
 
     <br><br><p></p>
 
-<form action="/action_page.php">
+<form action="">
+        <input type="text" id="emailinput" name="inputUsername" value="Input Username">
+        <label for="username">Username</label><br>
+        <input type="text" id="emailinput" name="inputPassword" value="Input Password">
+        <label for="password">Password</label><br>
+        <input type="text" id="emailinput" name="inputEmail" value="Input Email Address">
+        <label for="javascript">Email Address</label><br><br>
+        <!-- <input type="submit" value="Submit"> -->
+</form> 
+
+    <br><br><p></p>
+
+<form action="">
         <input type="radio" id="html" name="fav_language" value="">
         <label for="html">Master Software</label><br>
         <input type="radio" id="css" name="fav_language" value="">

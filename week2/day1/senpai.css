@@ -21,6 +21,11 @@ html {
     color:red;
 }
 
+loginForm {
+    width: 100px;
+
+}
+
 button {
     background-color: black;
     padding: 15px;
@@ -44,6 +49,7 @@ button:hover {
     
 #navbar {
     display:flex;
+    flex-wrap: wrap;
     justify-content: center;
     background: hsl(260 89% 31% / 50%);
     /* background: green; */
@@ -334,6 +340,11 @@ body{
 #readybutton{
     color:black;
     opacity:80;
+}
+
+#emailinput{
+color:black;
+
 }
 
 #emailinput::placeholder{
