@@ -580,3 +580,57 @@ font-size: 15px;
     /* animation-delay: 0.4s; */
     
 }
+
+
+input {
+    width: 200px;
+}
+
+
+
+label {
+    width: 150px;
+    font-size: 15px;
+    justify-content: left;
+    text-align: left;
+    padding: 15px;  
+}
+
+.labeltest {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+/* alignment */
+
+    /* flex-wrap: wrap; */
+    width: 150px;
+    font-size: 15px;
+    /* text-align: left; */
+    padding: 15px;  
+}
+
+.formcenter{
+    align-self: center;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+
+/* 
+justify-content
+align-items
+flex-direction
+order
+align-self
+flex-wrap
+flex-flow
+align-content */
